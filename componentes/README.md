@@ -1,16 +1,35 @@
-# componentes
+# Componentes
 
-A new Flutter project.
+This project was exclusive for to have more practice with the Flutter's Widget.
 
-## Getting Started
+Widget used<br />
+* MaterialPageRoute
+* Scaffold
+* AppBar
+* ListView
+* EdgeInsets
+* Divider
+* TextField
+* ListTile
+* DateTime
+* Row
+* Column
+* Expanded
+* Icon
+* Slider
+* Checkbox
+* CheckboxListTile
+* SwitchListTile
+* Text
+* Card
+* CircleAvatar
+* FadeInImage
+* Image
+* and more...
+<br />
 
-This project is a starting point for a Flutter application.
+![flutter-components](https://user-images.githubusercontent.com/48134692/73150228-26d67c80-407a-11ea-85ae-c6aa61320a8a.gif)
+<br />
+<br />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+NOTE: this was the "[Section 6: Flutter's Components](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/learn/lecture/14342038#overview)"

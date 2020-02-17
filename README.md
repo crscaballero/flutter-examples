@@ -9,3 +9,6 @@ This is compiled of a few Flutter projects, following the course instructions fo
 
 * [Flutter Components](componentes)<br />
 ![flutter-components](https://user-images.githubusercontent.com/48134692/73150228-26d67c80-407a-11ea-85ae-c6aa61320a8a.gif)
+
+* [Movies](peliculas)<br />
+![moviesGIF](https://user-images.githubusercontent.com/48134692/74692811-ced4f680-519d-11ea-8954-bed23b97bfb5.gif)

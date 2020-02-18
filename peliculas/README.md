@@ -1,6 +1,6 @@
 # Movies
 
-This is a project which will be connected with [The Movie DB API](https://www.themoviedb.org/) to show populares movies, its images, actores, and description  with a nice UI and UX
+This is a project which will be connected with [The Movie DB API](https://www.themoviedb.org/) to show populares movies, its images, actors, and description  with a nice UI and UX
 <br />
 <br />
 

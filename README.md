@@ -1,5 +1,5 @@
 # Flutter
-This is compiled of a few Flutter projects, following the course instructions for learn and practice. <br />
+This is a compiled of a few Flutter projects, following the course instructions for learn and practice. <br />
 [Flutter: Complete Guid, IOS & Android](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) by Ferarnando Herrera
 <br />
 <br />

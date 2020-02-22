@@ -12,3 +12,12 @@ This is a compiled of a few Flutter projects, following the course instructions 
 
 * [Movies](peliculas)<br />
 ![moviesGIF](https://user-images.githubusercontent.com/48134692/74692811-ced4f680-519d-11ea-8954-bed23b97bfb5.gif)
+
+* [Basic Design](design_basic)<br />
+![Annotation 2020-02-22 142823](https://user-images.githubusercontent.com/48134692/75100294-9c9e0d00-5580-11ea-8af4-da8c52f4770e.png)
+
+* [Scroll Design](design_scroll)<br />
+WIP
+
+* [Compound Design](design_compound)<br />
+WIP

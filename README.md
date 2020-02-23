@@ -13,11 +13,5 @@ This is a compiled of a few Flutter projects, following the course instructions 
 * [Movies](peliculas)<br />
 ![moviesGIF](https://user-images.githubusercontent.com/48134692/74692811-ced4f680-519d-11ea-8954-bed23b97bfb5.gif)
 
-* [Basic Design](design_basic)<br />
-![Annotation 2020-02-22 142823](https://user-images.githubusercontent.com/48134692/75100294-9c9e0d00-5580-11ea-8af4-da8c52f4770e.png)
-
-* [Scroll Design](design_scroll)<br />
-WIP
-
-* [Compound Design](design_compound)<br />
-WIP
+* [Design](designs)<br />
+![flutterDesignsGIF](https://user-images.githubusercontent.com/48134692/75120797-24e4e680-5643-11ea-9b87-799b9e5f9d94.gif)
